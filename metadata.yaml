@@ -1,0 +1,38 @@
+_repo: The-Squire-s-Daughter_36384
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Twidle, Arthur
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '8293'
+    url: http://www.gutenberg.org/2009/agents/8293
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Twidle
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hocking, Silas K. (Silas Kitto)
+    alias: Hocking, Silas Kitto
+    birthdate: 1850
+    deathdate: 1935
+    gutenberg_agent_id: '38239'
+    url: http://www.gutenberg.org/2009/agents/38239
+    wikipedia: http://en.wikipedia.org/wiki/Silas_Hocking
+description: ''
+gutenberg_issued: '2011-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36384'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Landlord and tenant -- Fiction'
+- !lcsh 'Love stories'
+- !lcc 'PR'
+- !lcsh 'Social classes -- England -- Fiction'
+title: The Squire's Daughter
+url: http://www.gutenberg.org/ebooks/36384
