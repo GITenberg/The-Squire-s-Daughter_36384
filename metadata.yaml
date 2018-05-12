@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38239
     wikipedia: http://en.wikipedia.org/wiki/Silas_Hocking
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36384#The-Squire-s-Daughter
 gutenberg_issued: '2011-06-11'
 gutenberg_type: Text
 identifiers:
